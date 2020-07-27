@@ -1,0 +1,21 @@
+<style>
+html, body, div, section, article, aside, header, hgroup, footer, nav, h1, h2, h3, h4, h5, h6, p, blockquote, address, time, span, em, strong, img, ol, ul, li, figure, canvas, video, th, td, tr {
+  margin: 30px;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+  font: inherit;
+}
+
+.post-main-container {
+  margin: 0 auto 0;
+  background-color: #fafafa;
+}
+
+.post-thumbnail-img {
+  width: 1000px;
+  height: auto;
+  display: block;
+  margin: auto;
+
+}
